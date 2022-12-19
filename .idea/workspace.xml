@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3210dd-8680-4c8a-8006-fec4aa16bf29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/deneme/C03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day02_DriverMethods/C04_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day02_DriverMethods/C04_example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +44,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day01_ClassWork2">
-    <configuration name="Day01_ClassWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01_DriverMethods.Day01_ClassWork2" />
+  <component name="RunManager" selected="Application.C04_example">
+    <configuration name="C01_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02_DriverMethods.C01_Example" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01_DriverMethods.*" />
+          <option name="PATTERN" value="Day02_DriverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day01_DriverMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01_DriverMethods.Day01_DriverMethods" />
+    <configuration name="C02_WebElementsVeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02_DriverMethods.C02_WebElementsVeLocators" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01_DriverMethods.*" />
+          <option name="PATTERN" value="Day02_DriverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day01_ManageMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01_DriverMethods.Day01_ManageMethods" />
+    <configuration name="C03_Locators_GetMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02_DriverMethods.C03_Locators_GetMethodlari" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01_DriverMethods.*" />
+          <option name="PATTERN" value="Day02_DriverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day01_NavigateMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01_DriverMethods.Day01_NavigateMethod" />
+    <configuration name="C04_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02_DriverMethods.C04_example" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01_DriverMethods.*" />
+          <option name="PATTERN" value="Day02_DriverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day01_Selenium_ClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01_DriverMethods.Day01_Selenium_ClassWork" />
+    <configuration name="ClassWorkHomework_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.ClassWorkHomework_4" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01_DriverMethods.*" />
+          <option name="PATTERN" value="deneme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day01_ClassWork2" />
-        <item itemvalue="Application.Day01_ManageMethods" />
-        <item itemvalue="Application.Day01_NavigateMethod" />
-        <item itemvalue="Application.Day01_Selenium_ClassWork" />
-        <item itemvalue="Application.Day01_DriverMethods" />
+        <item itemvalue="Application.C04_example" />
+        <item itemvalue="Application.C03_Locators_GetMethodlari" />
+        <item itemvalue="Application.C02_WebElementsVeLocators" />
+        <item itemvalue="Application.C01_Example" />
+        <item itemvalue="Application.ClassWorkHomework_4" />
       </list>
     </recent_temporary>
   </component>
