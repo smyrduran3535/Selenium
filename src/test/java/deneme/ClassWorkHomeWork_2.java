@@ -19,12 +19,21 @@ public class ClassWorkHomeWork_2 {
 
         //4. Sayfanin konumunu ve boyutunu istediginiz sekilde ayarlayin
         driver.manage( ).window( ).setSize(new Dimension( 800 , 600 ));
-        driver.manage().window().setSize(new Dimension(800,600));
+        driver.manage().window().setPosition(new Point(50,50));
+        System.out.println(driver.manage().window().getSize());
+        System.out.println(driver.manage().window().getPosition());
 
         //5. Sayfanin sizin istediginiz konum ve boyuta geldigini test edin
-        driver.manage( ).window( ).setPosition(new Point ( 80 , 0 ) ) ;
-        driver.manage( ).window( ).setSize(new Dimension( 800 , 600 ));
-
+        Point actualYeniSize= driver.manage( ).window( ).getPosition() ;
+        if (actualYeniSize.getX()==50&&actualYeniSize.getY()==50){
+            System.out.println("Size Testi PASSED");
+        }else{
+            System.out.println("Pozition Testi FAILED");
+        }
+        Dimension actualYeniPozition=driver.manage( ).window( ).getSize();
+if (actualYeniPozition.getWidth()==800&&actualYeniPozition.getWidth()==800){
+    System.out.println("Pozition Testi PASSED");
+}else System.out.println("Pozition Testi FAILED");
 
         //8. Sayfayi kapatin
         driver.close();

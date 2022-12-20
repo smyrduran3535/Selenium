@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3210dd-8680-4c8a-8006-fec4aa16bf29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/deneme/C03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day02_DriverMethods/C01_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day02_DriverMethods/C01_Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Day02_DriverMethods/C04_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day02_DriverMethods/C04_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/deneme/ClassWorkHomeWork_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/deneme/ClassWorkHomeWork_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +45,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_example">
-    <configuration name="C01_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_DriverMethods.C01_Example" />
+  <component name="RunManager" selected="Application.C02_Css_Selector">
+    <configuration name="C01_LocatorsXpath_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03_Xpath.C01_LocatorsXpath_Example" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02_DriverMethods.*" />
+          <option name="PATTERN" value="Day03_Xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,25 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WebElementsVeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_DriverMethods.C02_WebElementsVeLocators" />
+    <configuration name="C02_Css_Selector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03_Xpath.C02_Css_Selector" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02_DriverMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_Locators_GetMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02_DriverMethods.C03_Locators_GetMethodlari" />
-      <module name="seleniumnewproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day02_DriverMethods.*" />
+          <option name="PATTERN" value="Day03_Xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassWorkHomework_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.ClassWorkHomework_4" />
+    <configuration name="TEKRAR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.TEKRAR" />
+      <module name="seleniumnewproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme.Test01" />
       <module name="seleniumnewproject" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_Css_Selector" />
+        <item itemvalue="Application.C01_LocatorsXpath_Example" />
         <item itemvalue="Application.C04_example" />
-        <item itemvalue="Application.C03_Locators_GetMethodlari" />
-        <item itemvalue="Application.C02_WebElementsVeLocators" />
-        <item itemvalue="Application.C01_Example" />
-        <item itemvalue="Application.ClassWorkHomework_4" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.TEKRAR" />
       </list>
     </recent_temporary>
   </component>
